@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+用 Nest.js 框架实现邮件验证码注册功能
 
 ## Installation
 
@@ -38,5 +38,5 @@ $ npm run test:cov
 
 ```bash
 # use mailer
-please replace your mailer config in .env file
+请在根目录 .env 文件替换邮件服务配置
 ```
